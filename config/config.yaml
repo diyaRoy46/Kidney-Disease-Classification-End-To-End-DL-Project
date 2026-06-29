@@ -1,0 +1,5 @@
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source: "nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone"
+  local_data_file: artifacts/data_ingestion/data.zip
+  unzip_dir: artifacts/data_ingestion
